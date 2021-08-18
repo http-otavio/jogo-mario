@@ -40,7 +40,7 @@ Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os s
 
 ```bash
 # Clonando esse repositório
-$ git clone https://github.com/felipeAguiarCode/jogo-mario.git
+$ git clone https://github.com/http-otavio/jogo-mario-master
 ```
 Em seguida execute o arquivo 'index.html' no seu navegador
 
@@ -50,6 +50,6 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 
 ## Autor
 
-| [<br><sub>Felipe Aguiar</sub>](https://github.com/http-otavio) |
+| [<br><sub>Otávio Messias</sub>](https://github.com/http-otavio) |
 | :---: |
 |[Linkedin](www.linkedin.com/in/otávio-messias)|
