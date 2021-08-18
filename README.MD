@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img alt="LOGO" height="90px" src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" />
     <br>
     Api de reconhecimento de voz com javascript
 </h1>
@@ -51,6 +50,6 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
+| [<br><sub>Felipe Aguiar</sub>](https://github.com/http-otavio) |
 | :---: |
-|[Linkedin](www.linkedin.com/in/felipe-aguiar-047)|
+|[Linkedin](www.linkedin.com/in/otávio-messias)|
